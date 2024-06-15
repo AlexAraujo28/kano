@@ -2,7 +2,7 @@ import asyncio
 from bleak import BleakClient
 
 # Replace with the MAC address and characteristic UUIDs of your Kano Wand
-wand_mac_address = "EE:F7:93:0B:DD:63"
+wand_mac_address = "00:00:00:00:00:00"
 sensor_data_char_uuid = "0000fff2-0000-1000-8000-00805f9b34fb"  # Example UUID for sensor data
 
 async def connect_and_detect_gestures():
