@@ -1,6 +1,11 @@
 # kano
 attempt at running kano harry potter wand with windows
 
+added gestures.py but not fully functional it does not use gui only terminal and you need to hardcode the mac adress of the wand by replacing the 0's
+
+
+
+
 
 To start off i bought a Kano harry potter wand, then found out that the whole project was dead. i found out a lot of tools but most work with Linux and i have windows. I found alot of python scripts using various methods. I have been programming in a lot of different languages and python was new for me, also i was not aware of how i would go about doing this. I used chatgpt to mess around and get a few things going i upload these to maybe somehow people can fix things and make something out of it. The code is a python script that uses bleak ; Bleak is a GATT client software, capable of connecting to BLE devices acting as GATT servers. It is designed to provide a asynchronous, cross-platform Python API to connect and communicate with e.g. sensors. It also uses NumPy; NumPy is a Python library used for working with arrays.
 It also has functions for working in domain of linear algebra, fourier transform, and matrices.
